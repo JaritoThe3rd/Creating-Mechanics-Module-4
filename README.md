@@ -17,3 +17,20 @@ Make these 4 variables and make that the "Texture 2D" is an object reference.
 <img width="1530" height="805" alt="image" src="https://github.com/user-attachments/assets/1ffbed64-492f-4128-889f-6f84800f3881" />
 
 Miscellaneous > Data Set > name it "Item_Keycard"
+
+<img width="1409" height="405" alt="image" src="https://github.com/user-attachments/assets/07b5f0ec-9f2d-4058-b1ab-944c6b1ccf0c" />
+
+Name it and provide a description.
+
+<img width="1827" height="1007" alt="image" src="https://github.com/user-attachments/assets/b59f9586-1eea-47ce-83ba-8d7c3b9d2e89" />
+
+Make a custom static mesh keycard from Modeling mode.
+
+<img width="432" height="787" alt="image" src="https://github.com/user-attachments/assets/6a192d6e-1dee-4cdd-adad-c1edc4b5a6c4" />
+
+<img width="1837" height="720" alt="image" src="https://github.com/user-attachments/assets/0427b16c-69d7-42bb-acea-2c1c9849a355" />
+
+Select AutoUV for the keycard then accept.
+
+<img width="1810" height="950" alt="image" src="https://github.com/user-attachments/assets/6703e96f-550f-4303-8e65-6822579f078d" />
+
