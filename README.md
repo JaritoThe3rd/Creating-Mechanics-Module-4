@@ -41,3 +41,26 @@ After adding the keycard's static mesh.
 <img width="3438" height="1047" alt="image" src="https://github.com/user-attachments/assets/22699d43-79e2-4c28-b161-80a8ef721fd7" />
 
 Go to BP_Pickup > Add a new variable called "Data Asset" as a "DA-Item"
+
+<img width="944" height="622" alt="image" src="https://github.com/user-attachments/assets/713c80cc-c006-45ce-a6ee-b35f30da7714" />
+
+<img width="2607" height="971" alt="image" src="https://github.com/user-attachments/assets/357e70c9-95cf-4c75-859e-d3d8602dcd54" />
+
+<img width="1019" height="990" alt="image" src="https://github.com/user-attachments/assets/3df07cad-fdff-4256-b179-0947eef2c268" />
+
+<img width="1138" height="790" alt="image" src="https://github.com/user-attachments/assets/dbdfae54-6a72-4677-9bc1-f37415de43e6" />
+
+<img width="1330" height="766" alt="image" src="https://github.com/user-attachments/assets/a7a6d2c0-f245-4bd9-af8a-e02c0b35f6c2" />
+
+<img width="1960" height="1293" alt="image" src="https://github.com/user-attachments/assets/ba212813-418d-4717-a7c0-01f7cb776f7f" />
+
+Drag BP_Pickup and put in the world then select your data asset
+
+<img width="3022" height="517" alt="image" src="https://github.com/user-attachments/assets/2b524eef-a69c-4a17-aa29-d5d5ed77b09a" />
+
+NOW WE WANT THE KEYCARD TO BE INTERACTABLE
+
+<img width="2141" height="974" alt="image" src="https://github.com/user-attachments/assets/31c831de-c805-4dc1-b264-b73bb69514e0" />
+
+Select StaticMesh > Collision Presets > Set to Custom > Change Interactive into Block
+
