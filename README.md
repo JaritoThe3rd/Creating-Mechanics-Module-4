@@ -34,3 +34,10 @@ Select AutoUV for the keycard then accept.
 
 <img width="1810" height="950" alt="image" src="https://github.com/user-attachments/assets/6703e96f-550f-4303-8e65-6822579f078d" />
 
+<img width="1214" height="959" alt="image" src="https://github.com/user-attachments/assets/c3bf443b-456c-4ee4-adf8-5057b782c441" />
+
+After adding the keycard's static mesh.
+
+<img width="3438" height="1047" alt="image" src="https://github.com/user-attachments/assets/22699d43-79e2-4c28-b161-80a8ef721fd7" />
+
+Go to BP_Pickup > Add a new variable called "Data Asset" as a "DA-Item"
