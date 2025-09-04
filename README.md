@@ -64,3 +64,14 @@ NOW WE WANT THE KEYCARD TO BE INTERACTABLE
 
 Select StaticMesh > Collision Presets > Set to Custom > Change Interactive into Block
 
+<img width="1815" height="932" alt="image" src="https://github.com/user-attachments/assets/15ebd8a4-d924-4b94-a814-a15e1116ec99" />
+
+<img width="1233" height="612" alt="image" src="https://github.com/user-attachments/assets/a13cf417-7666-4246-8cd5-860411c4f223" />
+
+<img width="1125" height="576" alt="image" src="https://github.com/user-attachments/assets/cd0ccb89-2f63-4a63-9682-170d469d5a90" />
+
+You should be able to see your actor component named "InventorySystem".
+
+<img width="3259" height="1310" alt="image" src="https://github.com/user-attachments/assets/0b14588f-951b-4cff-836a-07f1cf6454c8" />
+
+Go to InventorySystem actor component > Make a variable call it as "Content" then assign type as "DA Item".
