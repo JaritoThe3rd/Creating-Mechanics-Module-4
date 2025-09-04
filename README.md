@@ -75,3 +75,22 @@ You should be able to see your actor component named "InventorySystem".
 <img width="3259" height="1310" alt="image" src="https://github.com/user-attachments/assets/0b14588f-951b-4cff-836a-07f1cf6454c8" />
 
 Go to InventorySystem actor component > Make a variable call it as "Content" then assign type as "DA Item".
+
+<img width="1137" height="377" alt="image" src="https://github.com/user-attachments/assets/a458c456-1c6b-45f6-8507-2ab58e80f099" />
+
+Within the Content variable > Change the variable container as "map" > then as a integer.
+
+!!! Whenever you're making a variable. Always think about the functions that you need to manage that variable. !!!
+
+<img width="527" height="378" alt="image" src="https://github.com/user-attachments/assets/da7354d9-dbc9-4c17-b994-129818c81c4e" />
+
+<img width="3439" height="1219" alt="image" src="https://github.com/user-attachments/assets/eb01a6c5-f3a7-44f5-9527-a1a4a9681718" />
+
+Into your AddToInventory function > The Add node basically adds a unique key of a new value (It doesn't 2 new values together it just replaces it).
+
+<img width="2302" height="412" alt="image" src="https://github.com/user-attachments/assets/f77579c8-3a3e-467b-95e3-67ecccdb9e45" />
+
+Click onto your AddToInventory function > Add these two inputs Item for DA Item > Quantity Integer.
+
+<img width="1918" height="783" alt="image" src="https://github.com/user-attachments/assets/f3b6037b-461d-443b-bba8-3ed8ef218570" />
+
