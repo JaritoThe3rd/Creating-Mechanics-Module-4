@@ -92,5 +92,27 @@ Into your AddToInventory function > The Add node basically adds a unique key of 
 
 Click onto your AddToInventory function > Add these two inputs Item for DA Item > Quantity Integer.
 
-<img width="1918" height="783" alt="image" src="https://github.com/user-attachments/assets/f3b6037b-461d-443b-bba8-3ed8ef218570" />
+<img width="3430" height="1339" alt="image" src="https://github.com/user-attachments/assets/24aab280-73b0-4e77-aa3b-46896f2b518b" />
+
+<img width="3422" height="751" alt="image" src="https://github.com/user-attachments/assets/c87d4178-e189-4ff5-b0ed-ef1a0f39b92b" />
+
+Go to RemoveFromInventory Function > Add two new inputs called "Item" assigned as "DA Item" and "Quantity" assigned as integer.
+
+<img width="613" height="361" alt="image" src="https://github.com/user-attachments/assets/bd3e9126-3a5a-4f27-a1fc-0ec101a52c5d" />
+
+Add Find node > then connect "Item" Input into the "Find" node > then it finds the item.
+
+<img width="3348" height="1219" alt="image" src="https://github.com/user-attachments/assets/026b22a6-1fd3-4827-b5c6-488078dfc921" />
+
+<img width="1094" height="567" alt="image" src="https://github.com/user-attachments/assets/16666755-b5d9-4269-baef-cce434926133" />
+
+<img width="1891" height="948" alt="image" src="https://github.com/user-attachments/assets/4f0fe2d6-041d-48a8-ba7e-ed8bd6dd3c3c" />
+
+<img width="906" height="317" alt="image" src="https://github.com/user-attachments/assets/a63dbaa5-9611-44d7-8105-4cfec0d8a3fa" />
+
+<img width="3439" height="1353" alt="image" src="https://github.com/user-attachments/assets/445357b3-641f-4356-8f5a-2c98c5e12504" />
+
+<img width="946" height="363" alt="image" src="https://github.com/user-attachments/assets/ec559476-52e0-4580-8370-dd37b73fadbb" />
+
+<img width="3433" height="1350" alt="image" src="https://github.com/user-attachments/assets/c5dde303-c281-4e23-8b0c-0371d9598878" />
 
